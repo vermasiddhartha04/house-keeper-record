@@ -1,0 +1,11 @@
+function HouseKeeper (yearOfSprinence, name, cleaningArea) {
+this.yearOfSprinence = yearOfSprinence;
+this.name = name;
+this.cleaningArea = cleaningArea;
+}
+
+
+
+
+
+var houseKeeper1 = new HouseKeeper("9", "dcd",["cbusnxsn", "cddcd"]);
